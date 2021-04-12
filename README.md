@@ -1,5 +1,5 @@
 <h1>Loading Animation</h1>
-An loading animation in JavaScript & CSS.
+An loading animation in JavaScript & CSS
 
 <h2>Preview</h2>
 
